@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RafaelTitoB
+- 👋 Hi, I’m @rafaeltitob
 - 👀 I’m interested in sports, films and trips
 - 🌱 I’m currently learning to program in Python and to play piano
 - 💞️ I’m looking to collaborate on any projects in Python
